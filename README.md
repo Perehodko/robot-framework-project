@@ -16,7 +16,7 @@ virtualenv -p python3 /home/nadya/Documents/enviroments/robotframework
 source /home/nadya/Documents/enviroments/robotframework/bin/activate
 ```
 #### Установка необходимых пакетов
-Установка при помощи pip:
+Установка robotframework при помощи pip:
 ```
 python -m pip install robotframework
 ```
