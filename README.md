@@ -23,9 +23,7 @@ python -m pip install robotframework
 Для проверки установленных версий используйте команды:
 ```
 robot --version
-```
 Robot Framework 3.1.2 (Python 3.6.9 on linux)
-```
 rebot --version
-```
 Rebot 3.1.2 (Python 3.6.9 on linux)
+```
