@@ -7,7 +7,7 @@ Robor Framework Project
 ```
 sudo apt-get install virtualenv
 ```
-2. Создадим виртуальное окружение:
+2. Создадим виртуальное окружение robotframework:
 ```
 virtualenv -p python3 /home/nadya/Documents/enviroments/robotframework
 ```
