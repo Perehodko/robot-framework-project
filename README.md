@@ -11,7 +11,7 @@ sudo apt-get install virtualenv
 ```
 virtualenv -p python3 /home/nadya/Documents/enviroments/robotframework
 ```
-3. Активируем вируальное окружене
+3. Активируем:
 ```
 source /home/nadya/Documents/enviroments/robotframework/bin/activate
 ```
