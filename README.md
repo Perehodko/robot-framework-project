@@ -16,3 +16,16 @@ virtualenv -p python3 /home/nadya/Documents/enviroments/robotframework
 source /home/nadya/Documents/enviroments/robotframework/bin/activate
 ```
 #### Установка необходимых пакетов
+Установка при помощи pip:
+```
+python -m pip install robotframework
+```
+Для проверки установленных версий используйте команды:
+```
+robot --version
+```
+Robot Framework 3.1.2 (Python 3.6.9 on linux)
+```
+rebot --version
+```
+Rebot 3.1.2 (Python 3.6.9 on linux)
