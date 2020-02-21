@@ -63,5 +63,6 @@ pip install robotframework-seleniumlibrary
 Existing interpreter > ~/Documents/enviroments/robotframework/bin/python3.6
 
 10. Установка плагина в PyCharm
+
 File > Settings > Plugins > IntelliBot @SeleniumLibrary Patched 
 Установить и перезапустить IDE
