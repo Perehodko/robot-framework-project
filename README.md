@@ -7,6 +7,7 @@ Robor Framework Project
 - Selenium
 - RobotFramework
 - Robotframework Selenium Library
+- IntelliBot @SeleniumLibrary Patched
 
 
 #### Создание витруального окружения
