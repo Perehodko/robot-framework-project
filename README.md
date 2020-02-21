@@ -68,3 +68,11 @@ Existing interpreter > ~/Documents/enviroments/robotframework/bin/python3.6
 File > Settings > Plugins > IntelliBot @SeleniumLibrary Patched 
 
 Установить и перезапустить IDE
+11. Скачать chromedriver
+11.1 Скачать можно отсюда: https://sites.google.com/a/chromium.org/chromedriver/
+11.2 Распаковать архив и переместить в нужную диреткорию
+11.3 Добавить путь к chromedriver в переменную окружения PATH:
+```
+export PATH=$PATH:/home/nadya/Documents/RobotFrameworkProject/chromedriver
+```
+
