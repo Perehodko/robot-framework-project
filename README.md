@@ -58,6 +58,7 @@ Rebot 3.1.2 (Python 3.6.9 on linux)
 pip install robotframework-seleniumlibrary
 ```
 9.Создадим новый проект в PyCharm -- RobotFrameworkProject
-При создании проект выберите существующее витруальное окружение:
+
+При создании проекта выберите существующее витруальное окружение:
 Existing interpreter > ~/Documents/enviroments/robotframework/bin/python3.6
 
