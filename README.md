@@ -4,6 +4,8 @@ Robor Framework Project
 Список пакетов:
 - Python
 - Pycharm
+- Selenium
+- RobotFramework
 
 
 #### Создание витруального окружения
@@ -34,12 +36,15 @@ umake ide pycharm
 sudo ln -sfs /home/nadya/.local/share/umake/ide/pycharm/bin/pycharm.sh /usr/bin/pycharm
 ```
 После этого можно запускать командой pycharm
-
-6. Установка robotframework при помощи pip:
+6. Установка Selenium
+```
+pip install selenium
+```
+7. Установка robotframework при помощи pip:
 ```
 python -m pip install robotframework
 ```
-7. Для проверки установленных версий используйте команды:
+7.1 Для проверки установленных версий используйте команды:
 ```
 robot --version
 Robot Framework 3.1.2 (Python 3.6.9 on linux)
