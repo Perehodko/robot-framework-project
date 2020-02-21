@@ -24,7 +24,6 @@ source /home/nadya/Documents/enviroments/robotframework/bin/activate
 Установка umake:
 ```
 sudo apt-get install ubuntu-make
-
 ```
 Установка PyCharm:
 ```
