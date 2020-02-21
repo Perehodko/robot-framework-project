@@ -6,6 +6,7 @@ Robor Framework Project
 - Pycharm
 - Selenium
 - RobotFramework
+- Robotframework Selenium Library
 
 
 #### Создание витруального окружения
@@ -40,20 +41,20 @@ sudo ln -sfs /home/nadya/.local/share/umake/ide/pycharm/bin/pycharm.sh /usr/bin/
 ```
 pip install selenium
 ```
-7. Установим robotframework-seleniumlibrary
-```
-pip install robotframework-seleniumlibrary
-```
-8. Установка robotframework при помощи pip:
+7. Установка robotframework при помощи pip:
 ```
 python -m pip install robotframework
 ```
-8.1 Для проверки установленных версий используйте команды:
+7.1 Для проверки установленных версий используйте команды:
 ```
 robot --version
 Robot Framework 3.1.2 (Python 3.6.9 on linux)
 rebot --version
 Rebot 3.1.2 (Python 3.6.9 on linux)
+```
+8. Установка Robotframework Selenium Library
+```
+pip install robotframework-seleniumlibrary
 ```
 
 
