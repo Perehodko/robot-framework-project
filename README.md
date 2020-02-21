@@ -21,19 +21,24 @@ virtualenv -p python3 /home/nadya/Documents/enviroments/robotframework
 source /home/nadya/Documents/enviroments/robotframework/bin/activate
 ```
 #### Установка необходимых пакетов
-Установка umake:
+4. Установка umake:
 ```
 sudo apt-get install ubuntu-make
 ```
-Установка PyCharm:
+5. Установка PyCharm:
 ```
 umake ide pycharm
 ```
-. Установка robotframework при помощи pip:
+Для того, чтобы при запуске PyCharm не указывать каждый раз путь к исполняемомоу файлу, выполним следующую команду:
+```
+sudo ln -sfs /home/nadya/.local/share/umake/ide/pycharm/bin/pycharm.sh /usr/bin/pycharm
+```
+
+6. Установка robotframework при помощи pip:
 ```
 python -m pip install robotframework
 ```
-. Для проверки установленных версий используйте команды:
+7. Для проверки установленных версий используйте команды:
 ```
 robot --version
 Robot Framework 3.1.2 (Python 3.6.9 on linux)
