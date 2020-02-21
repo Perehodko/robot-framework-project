@@ -33,6 +33,7 @@ umake ide pycharm
 ```
 sudo ln -sfs /home/nadya/.local/share/umake/ide/pycharm/bin/pycharm.sh /usr/bin/pycharm
 ```
+После этого можно запускать командой pycharm
 
 6. Установка robotframework при помощи pip:
 ```
