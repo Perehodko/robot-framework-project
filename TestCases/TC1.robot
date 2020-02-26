@@ -7,8 +7,10 @@ Library  SeleniumLibrary
 
 *** Test Cases ***
 LoginTest
-    open browser    https://www.nopcommerce.com/    chrome
-    click link xpath://a[@class='ico-login']
+    Open Browser    https://github.com/Perehodko   chrome
+    click link      https://github.com/about
+    #input text    class:input   lalalallllllllllllllllllll
+    close browser
 
 
 
