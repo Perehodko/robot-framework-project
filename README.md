@@ -79,4 +79,10 @@ File > Settings > Plugins > IntelliBot @SeleniumLibrary Patched
 ```
 export PATH=$PATH:/home/nadya/Documents/RobotFrameworkProject/chromedriver
 ```
+(у меня chromedriver /usr/local/bin)
 
+### Запуск тестов
+Для запуска тестов выполните команду
+```
+robot TC1.robot
+```
